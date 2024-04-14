@@ -7,4 +7,5 @@ MCUs face up for englmaxi's ZMK on-board LED widget.
 I'll probably stick with ZMK but just in case something went wrong with the power circuits (unlikely), I left a pin for TRRS connectors.
 
 ![螢幕擷取畫面 2024-04-08 094835](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/f0653513-c4e7-4a71-977d-63f0e90abb41)
-![螢幕擷取畫面 2024-04-08 094740](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/b63a3286-1ad1-4c1c-b1bb-9b13a5c61645)
+![PXL_20240414_013016219](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/f6c51949-336d-4fcd-a3ed-b7e1391b9a84)
+![PXL_20240414_013830746](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/c0858064-9b8c-4e9d-b475-5aa7d8976fc1)
