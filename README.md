@@ -1,4 +1,4 @@
-Kai Simple is a Sweep variation that fits author's hand best.
+Kai Simple is a cradio (or some call it Sweep) variation that fits author's hand best.
 Author's first KB design: https://github.com/kaihchang/Ascend_splay_split_keyboard
 
 I've been using my last Ascend KB for a month, while it is comfortable, MX switches are still relatively big and wide. Maybe it's bc I have a small hand or was used to Sweep before it, I started missing Chocs, so that's why there's this Simple.
