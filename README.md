@@ -12,6 +12,8 @@ MCUs face up for englmaxi's ZMK on-board LED widget. Front-facing built-in LEDs 
   </tr>
   <tr>
     <td>![PXL_20240414_013830746](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/c0858064-9b8c-4e9d-b475-5aa7d8976fc1)</td>
+  </tr>
+  <tr>
     <td>![螢幕擷取畫面 2024-04-08 094835](https://github.com/kaihchang/Kai_Simple_split_keyboard/assets/43580584/f0653513-c4e7-4a71-977d-63f0e90abb41)</td>
   </tr>
 </table>
