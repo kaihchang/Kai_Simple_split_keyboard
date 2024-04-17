@@ -1,5 +1,10 @@
+# Kai Simple, an easy-to-build diodeless, wireless split keyboard
+
 Kai Simple is a cradio (or some call it Sweep) variation that fits author's hand best.
 Author's first KB design: https://github.com/kaihchang/Ascend_splay_split_keyboard
+
+ZMK config: https://github.com/kaihchang/zmk-config-kai-simple
+(front-facing built-in LEDs are utilized to present battery and connection status)
 
 I've been using my last Ascend KB for a month, while it is comfortable, MX switches are still relatively big and wide. Maybe it's bc I have a small hand or was used to Sweep before it, I started missing Chocs, so that's why there's this Simple.
 Originally I designed Simple with the shortest (12mm) EC11 knobs I can find, but didn't like the look and figured that I don't really need knobs, and without them I can also skip diodes and make the build cleaner, so I went for 1 pin for each switch.
